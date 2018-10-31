@@ -1,7 +1,6 @@
 # webpack4：从零配置到生产发布
 
-## 开发
-### npm run dev
+Running the examples:
 
-## 线上
-### npm run build
+`$ yarn
+$ npm run dev # serve examples at localhost:8080`
