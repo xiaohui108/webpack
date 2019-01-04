@@ -1,4 +1,4 @@
-# webpack4：从零配置到生产发布
+# webpack: dev
 
 Running the examples:
 
